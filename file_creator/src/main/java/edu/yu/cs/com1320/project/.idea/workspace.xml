@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d4f27ba-432c-4109-8870-3c619c13d3bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../Final/src/test/java/TestRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../Final/src/test/java/TestRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage1/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage1/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage1/src/main/java/edu/yu/cs/com1320/project/stage1/impl/DocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage1/src/main/java/edu/yu/cs/com1320/project/stage1/impl/DocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage1/src/main/java/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage1/src/main/java/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage1/src/test/java/edu/yu/cs/com1320/project/stage1/HashTableImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage1/src/test/java/edu/yu/cs/com1320/project/stage1/HashTableImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage1/src/test/java/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage1/src/test/java/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage2/src/main/java/edu/yu/cs/com1320/project/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage2/src/main/java/edu/yu/cs/com1320/project/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage2/src/main/java/edu/yu/cs/com1320/project/stage2/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage2/src/main/java/edu/yu/cs/com1320/project/stage2/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage2/src/test/java/edu/yu/cs/com1320/project/impl/HashTableImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage2/src/test/java/edu/yu/cs/com1320/project/impl/HashTableImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage2/src/test/java/edu/yu/cs/com1320/project/stage2/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage2/src/test/java/edu/yu/cs/com1320/project/stage2/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage2/src/test/java/edu/yu/cs/com1320/project/stage2/impl/StackImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage2/src/test/java/edu/yu/cs/com1320/project/stage2/impl/StackImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage3/src/test/java/edu/yu/cs/com1320/project/impl/TrieImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage3/src/test/java/edu/yu/cs/com1320/project/impl/TrieImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage4/src/main/java/edu/yu/cs/com1320/project/impl/TrieImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage4/src/main/java/edu/yu/cs/com1320/project/impl/TrieImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage4/src/main/java/edu/yu/cs/com1320/project/stage4/impl/DocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage4/src/main/java/edu/yu/cs/com1320/project/stage4/impl/DocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage4/src/main/java/edu/yu/cs/com1320/project/stage4/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage4/src/main/java/edu/yu/cs/com1320/project/stage4/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage4/src/test/java/edu/yu/cs/com1320/project/impl/MinHeapImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage4/src/test/java/edu/yu/cs/com1320/project/impl/MinHeapImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl/BTreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/impl/BTreeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl/MinHeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/impl/MinHeapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl/TrieImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/impl/TrieImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage5/impl/DocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage5/impl/DocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage5/impl/DocumentPersistenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage5/impl/DocumentPersistenceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage5/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage5/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../IntroToAlgorithms/assignments/SearchWithATweak/src/test/java/edu/yu/introtoalgs/test/SearchWithATweakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../IntroToAlgorithms/assignments/SearchWithATweak/src/test/java/edu/yu/introtoalgs/test/SearchWithATweakTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/DepartmentsAndEmployees/src/main/java/edu/yu/intro/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/DepartmentsAndEmployees/src/main/java/edu/yu/intro/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/DepartmentsAndEmployees/src/test/java/edu/yu/intro/test/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/DepartmentsAndEmployees/src/test/java/edu/yu/intro/test/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/FindingPrimes/src/main/java/edu/yu/intro/FindingPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/FindingPrimes/src/main/java/edu/yu/intro/FindingPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/ShapesWithInterfaces/src/test/java/edu/yu/intro/test/ShapesInterfacesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../IntroToCompSci/assignments/ShapesWithInterfaces/src/test/java/edu/yu/intro/test/ShapesInterfacesTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1j9vQG4nqQoZZfpZugPoyG10O8Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d4f27ba-432c-4109-8870-3c619c13d3bb" name="Default Changelist" comment="" />
+      <created>1603229103860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603229103860</updated>
+      <workItem from="1603229105367" duration="759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

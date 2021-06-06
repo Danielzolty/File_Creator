@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="31" failures="0" name="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" time="5.346" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.8+10-LTS"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home/lib"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/danielzolty/MYGIT/ZoltyDaniel/DataStructures/project/stage5"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/danielzolty/MYGIT/ZoltyDaniel/DataStructures/project/stage5"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.8+10-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/0w/g4q36pkd44qdwm9bhlmqfcvc0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/danielzolty/apache-maven-3.6.3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/danielzolty/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/Users/danielzolty/apache-maven-3.6.3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.15.5"/>
+    <property name="library.jansi.path" value="/Users/danielzolty/apache-maven-3.6.3/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/danielzolty"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="danielzolty"/>
+    <property name="java.class.path" value="/Users/danielzolty/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/danielzolty/apache-maven-3.6.3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3DeleteAllWithPrefix" time="4.652"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3SearchPDFs" time="0.025"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestUpdateDocLastUseTimeOnSearchPDFs" time="0.015"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestUpdateDocLastUseTimeOnSearch" time="0.013"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage5PushToDiskViaMaxDocCount" time="0.156"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3SearchByPrefix" time="0.014"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testPutPdfDocumentNoPreviousDocAtURI" time="0.018"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3TestSearchByKeyword" time="0.079"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestNoUpdateDocLastUseTimeOnProtectedGet" time="0.015"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestUpdateDocLastUseTimeOnSearchByPrefix" time="0.012"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testPutNewVersionOfDocumentPdf" time="0.04"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testPutNewVersionOfDocumentTxt" time="0.012"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testGetTxtDocAsPdf" time="0.046"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testGetTxtDocAsTxt" time="0.009"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestUpdateDocLastUseTimeOnSearchPDFsByPrefix" time="0.026"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3DeleteAll" time="0.013"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestUpdateDocLastUseTimeOnPut" time="0.011"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3TestDeleteAllByKeyword" time="0.029"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testDeleteDoc" time="0.013"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage5PushToDiskViaMaxDocCountBringBackInViaDelete" time="0.021"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testDeleteDocReturnValue" time="0.011"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage5PushToDiskViaMaxDocCountViaUndoDelete" time="0.018"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3TestSearchByPrefix" time="0.027"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3SearchPDFsByPrefix" time="0.012"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage4TestUpdateDocLastUseTimeOnOverwrite" time="0.011"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3Search" time="0.006"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testPutTxtDocumentNoPreviousDocAtURI" time="0.004"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testGetPdfDocAsPdf" time="0.011"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testGetPdfDocAsTxt" time="0.007"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="stage3TestDeleteAllByPrefix" time="0.017"/>
+  <testcase classname="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" name="testPutDocumentWithNullArguments" time="0.003"/>
+</testsuite>
